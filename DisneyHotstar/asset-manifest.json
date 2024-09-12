@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/resume/DisneyHotstar/static/css/main.2ca0090c.css",
-    "main.js": "/resume/DisneyHotstar/static/js/main.e6a2d292.js",
+    "main.js": "/resume/DisneyHotstar/static/js/main.9986db04.js",
     "static/media/PIC.png": "/resume/DisneyHotstar/static/media/PIC.60b8ec9abe5703e752b7.png",
     "static/media/login-background.jpg": "/resume/DisneyHotstar/static/media/login-background.05b1a1b3088cbb458939.jpg",
     "static/media/Ag.jpg": "/resume/DisneyHotstar/static/media/Ag.8c6e072d884a96e1322d.jpg",
@@ -33,10 +33,10 @@
     "static/media/original-icon.svg": "/resume/DisneyHotstar/static/media/original-icon.d7752d89e5a5d2b6276338bea45f413b.svg",
     "static/media/home-icon.svg": "/resume/DisneyHotstar/static/media/home-icon.b6a11f9b406f2f13cd82608a276428e5.svg",
     "main.2ca0090c.css.map": "/resume/DisneyHotstar/static/css/main.2ca0090c.css.map",
-    "main.e6a2d292.js.map": "/resume/DisneyHotstar/static/js/main.e6a2d292.js.map"
+    "main.9986db04.js.map": "/resume/DisneyHotstar/static/js/main.9986db04.js.map"
   },
   "entrypoints": [
     "static/css/main.2ca0090c.css",
-    "static/js/main.e6a2d292.js"
+    "static/js/main.9986db04.js"
   ]
 }
