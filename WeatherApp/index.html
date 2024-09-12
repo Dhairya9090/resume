@@ -1,1 +1,48 @@
-<h1>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi id dicta velit autem soluta, sit laborum quisquam eum molestiae, vero corrupti nesciunt adipisci laboriosam minima distinctio pariatur, veniam itaque asperiores!/h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Weather-App</title>
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet"/>
+</head>
+<body>
+    <main>
+        <form id="weatherForm">
+            <input type="text" autocomplete="off" id="valueSearch">
+            <button type="submit"><i class="ri-search-2-line"></i></button>
+        </form>
+
+        <section class="result">
+            <figure class="name" id="city">
+                <figcaption>Delhi</figcaption>
+                <img src="https://flagsapi.com/IN/shiny/32.png" alt="Country flag">
+            </figure>
+            <figure class="temperature" id="temperature">
+                <img src="http://openweathermap.org/img/wn/10d@4x.png" alt="Weather icon">
+                <figcaption><span>31</span>°C</figcaption>
+            </figure>
+            <p class="description" id="description">Overcasty clouds</p>
+            <ul>
+                <li>
+                    <span>Clouds</span>
+                    <i class="ri-cloud-fill"></i>
+                    <span id="clouds">98%</span>
+                </li>
+                <li>
+                    <span>Humidity</span>
+                    <i class="ri-water-percent-fill"></i>
+                    <span id="humidity"></span>
+                </li>
+                <li>
+                    <span>Pressure</span>
+                    <i class="ri-haze-2-fill"></i>
+                    <span id="pressure"></span>
+                </li>
+            </ul>
+        </section>
+    </main>
+    <script src="app.js"></script>
+</body>
+</html>
