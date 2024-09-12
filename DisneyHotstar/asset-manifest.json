@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "static/css/main.a79a044b.css",
-    "main.js": "static/js/main.ca1f032f.js",
-    "static/media/slick.svg": "static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "index.html",
-    "main.a79a044b.css.map": "static/css/main.a79a044b.css.map",
-    "main.ca1f032f.js.map": "static/js/main.ca1f032f.js.map"
+    "main.css": "/resume/DisneyHotstar/static/css/main.2ca0090c.css",
+    "main.js": "/resume/DisneyHotstar/static/js/main.c6991bca.js",
+    "static/media/slick.svg": "/resume/DisneyHotstar/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/resume/DisneyHotstar/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/resume/DisneyHotstar/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/resume/DisneyHotstar/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/resume/DisneyHotstar/index.html",
+    "main.2ca0090c.css.map": "/resume/DisneyHotstar/static/css/main.2ca0090c.css.map",
+    "main.c6991bca.js.map": "/resume/DisneyHotstar/static/js/main.c6991bca.js.map"
   },
   "entrypoints": [
-    "static/css/main.a79a044b.css",
-    "static/js/main.ca1f032f.js"
+    "static/css/main.2ca0090c.css",
+    "static/js/main.c6991bca.js"
   ]
 }
